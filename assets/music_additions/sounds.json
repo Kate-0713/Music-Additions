@@ -1,0 +1,12 @@
+{
+  "test_track": {
+    "category": "neutral",
+    "subtitle": "subtitles.test_track",
+    "sounds": [
+      {
+        "name": "music_additions:song_1_mono",
+        "stream": false
+      }
+    ]
+  }
+}

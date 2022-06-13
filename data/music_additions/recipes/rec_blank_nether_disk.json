@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherrack"
+    },
+    "1": {
+      "item": "minecraft:netherrack"
+    },
+    "2": {
+      "item": "minecraft:netherrack"
+    },
+    "3": {
+      "item": "minecraft:netherrack"
+    },
+    "4": {
+      "item": "music_additions:blank_disk_itm"
+    },
+    "5": {
+      "item": "minecraft:netherrack"
+    },
+    "6": {
+      "item": "minecraft:netherrack"
+    },
+    "7": {
+      "item": "minecraft:netherrack"
+    },
+    "8": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "result": {
+    "item": "music_additions:blank_nether_disk",
+    "count": 1
+  }
+}

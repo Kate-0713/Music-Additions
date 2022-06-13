@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "music_additions:hardened_fibre_itm"
+    },
+    "1": {
+      "item": "music_additions:hardened_fibre_itm"
+    },
+    "2": {
+      "item": "music_additions:hardened_fibre_itm"
+    },
+    "3": {
+      "item": "music_additions:hardened_fibre_itm"
+    },
+    "5": {
+      "item": "music_additions:hardened_fibre_itm"
+    },
+    "6": {
+      "item": "music_additions:hardened_fibre_itm"
+    },
+    "7": {
+      "item": "music_additions:hardened_fibre_itm"
+    },
+    "8": {
+      "item": "music_additions:hardened_fibre_itm"
+    }
+  },
+  "result": {
+    "item": "music_additions:blank_disk_itm",
+    "count": 1
+  }
+}
